@@ -1,0 +1,7 @@
+name: AutoTNT
+main: net.eetun.autotnt.AutoTNT
+version: 1.0
+author: Eetu
+description: dfasfa
+
+depend: [ WorldGuard, WGCustomFlags ]
